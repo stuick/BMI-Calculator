@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">BMI Calculator</string>
+    <string name="text_view_title">BMI Calculator</string>
+    <string name="radio_button_male_text">Male</string>
+    <string name="radio_button_female_text">Female</string>
+    <string name="edit_text_hint_age">Age</string>
+    <string name="edit_text_hint_feet">Feet</string>
+    <string name="edit_text_hint_inches">Inches</string>
+    <string name="edit_text_hint_weight_kg">Weight (Kg)</string>
+    <string name="button_text_calculate">Calculate</string>
+    <string name="text_view_text_message">23.6 You are healthy</string>
 </resources>
